@@ -1,0 +1,6 @@
+framework module Pods_5th_task {
+  umbrella header "Pods-5th task-umbrella.h"
+
+  export *
+  module * { export * }
+}
